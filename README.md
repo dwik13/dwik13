@@ -1,0 +1,5 @@
+- 👋 Hai, saya Dwi Khusnul Khotimah
+- 👀 Saya tertarik pada Web Progamming
+- 🌱 Saya sedang belajar laravel
+- 💞️ Saya Sekolah di SMK Negeri 8 Jember
+- 📫 Saya tinggal di Jember
